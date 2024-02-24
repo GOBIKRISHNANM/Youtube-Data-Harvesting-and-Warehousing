@@ -1,5 +1,6 @@
 # Youtube-Data-Harvesting-and-Warehousing
 **Project Overview:**
+
 This project aims to create a user-friendly Streamlit application for accessing and analyzing data from multiple YouTube channels.
 
 **Key Features:**
@@ -21,11 +22,11 @@ This project aims to create a user-friendly Streamlit application for accessing 
 - Google API client library for Python
 
 **Conclusion:**
+
 This project simplifies the process of accessing and analyzing YouTube channel data through an intuitive Streamlit interface. Users can effortlessly retrieve, store, and query data, enabling insightful analysis with minimal effort.
 
-Usage:
-1.Launch the Streamlit app: streamlit run mainfile.py
+**Usage:**
 
-2.Run the mainfile.py script, make sure you have main and sql files in the same folder.
+1.Launch the Streamlit app: streamlit run youtube.py
 
-3.The app will start and open in your browser. You can explore the harvested YouTube data and visualize the results.
+2.The app will start and open in your browser. You can explore the harvested YouTube data and visualize the results.
