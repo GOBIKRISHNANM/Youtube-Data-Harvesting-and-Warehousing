@@ -22,3 +22,10 @@ This project aims to create a user-friendly Streamlit application for accessing 
 
 **Conclusion:**
 This project simplifies the process of accessing and analyzing YouTube channel data through an intuitive Streamlit interface. Users can effortlessly retrieve, store, and query data, enabling insightful analysis with minimal effort.
+
+Usage:
+1.Launch the Streamlit app: streamlit run mainfile.py
+
+2.Run the mainfile.py script, make sure you have main and sql files in the same folder.
+
+3.The app will start and open in your browser. You can explore the harvested YouTube data and visualize the results.
